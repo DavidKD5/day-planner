@@ -61,7 +61,8 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  /* background-color: #06aed5; */
+  cursor: pointer;
   color: white;
 }
 
@@ -91,4 +92,7 @@ textarea {
   max-width: 40px;
   max-height: 40px;
   margin: auto;
+}
+
+.saveBtn {
 }
