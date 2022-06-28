@@ -62,7 +62,6 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   /* background-color: #06aed5; */
-  cursor: pointer;
   color: white;
 }
 
@@ -89,10 +88,11 @@ textarea {
 }
 
 .saveIcon {
-  max-width: 40px;
-  max-height: 40px;
+  max-width: 20px;
+  max-height: 20px;
   margin: auto;
 }
 
-.saveBtn {
+.btn {
+  cursor: pointer;
 }
